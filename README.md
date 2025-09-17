@@ -14,7 +14,7 @@ Atuo no desenvolvimento de sites, aplicações web, automações e integrações
 - **Automação & Integração:** N8N, APIs REST, sistemas integrados  
 - **Cloud & DevOps:** Docker, Google Cloud, AWS, Digital Ocean, Hetzner, Hostinger
 - **Banco de Dados e Armazenamento:** MySQL & PostgreSQL (manutenção, integração, gerenciamento via CLI e painel), armazenamento AWS S3/Backblaze
-- **Ferramentas de Análise:** HetrixTools, Sentry, Google Analytics, Tag Manager, Hotjar e outras.
+- **Ferramentas de Análise e Monitoramento:** HetrixTools, Sentry, Google Analytics, Tag Manager, Hotjar e outras.
 - **Shell & Versionamento:** Shell Script, Git, GitHub, GitLab  
 - **IA & Integrações:** Agentes de IA, vector storage, edge functions e outras técnicas.
 
