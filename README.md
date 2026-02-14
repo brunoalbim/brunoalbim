@@ -12,7 +12,7 @@ Atuo no desenvolvimento de sites, aplicações web, automações e integrações
 - **Linguagens & Frameworks:** PHP, JavaScript, NodeJS, NextJS, Python  
 - **WordPress:** Desenvolvimento de temas e plugins (código), No-Code (Elementor, JetEngine)  
 - **Automação & Integração:** N8N, APIs REST, sistemas integrados  
-- **Cloud & DevOps:** Docker, Google Cloud, AWS, Supabase, Digital Ocean, Hetzner, Hostinger
+- **Cloud & DevOps:** Docker, Google Cloud, AWS, Supabase, Cloudflare, Digital Ocean, Hetzner, Hostinger
 - **Banco de Dados e Armazenamento:** MySQL & PostgreSQL (manutenção, integração, gerenciamento via CLI e painel), armazenamento AWS S3/Backblaze, Redis
 - **Ferramentas de Análise e Monitoramento:** HetrixTools, Sentry, Google Analytics, Hotjar, Posthog e outras.
 - **Shell & Versionamento:** Shell Script, Git, GitHub, GitLab  
