@@ -2,8 +2,7 @@
 
 💻 Desenvolvedor Web | ☁️ Cloud & DevOps | 🤖 Automação & IA  
 
-Sou desenvolvedor de negócios digitais, e ao longo de anos, venho desbravando o mercado digital, dedicando-me ao desenvolvimento de soluções inovadoras e à criação de métodos eficazes para impulsionar o sucesso de negócios.
-Atuo no desenvolvimento de sites, aplicações web, automações e integrações de sistemas, sempre buscando eficiência, escalabilidade e inovação.  
+Atuo no desenvolvimento de sites, aplicações web, automações e integrações de sistemas, sempre buscando eficiência, escalabilidade e inovação.
 
 ---
 
