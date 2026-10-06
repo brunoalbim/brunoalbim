@@ -4,7 +4,6 @@
 
 Atuo no desenvolvimento de sites, aplicações web, automações e integrações de sistemas, sempre buscando eficiência, escalabilidade e inovação.
 
----
 
 ## ⚡ Meus projetos  
 
@@ -13,7 +12,6 @@ Atuo no desenvolvimento de sites, aplicações web, automações e integrações
 - [Chat com IA para sites: resolute.chat (Beta)](https://resolute.chat/)
 - [Conteúdo para Instagram, no automático: Instatico (Em construção)](https://instatico.com/)
 
----
 
 ## 🚀 Habilidades Técnicas  
 
@@ -26,14 +24,12 @@ Atuo no desenvolvimento de sites, aplicações web, automações e integrações
 - **Shell & Versionamento:** Shell Script, Git, GitHub, GitLab  
 - **IA & Integrações:** Agentes de IA, vector storage, edge functions e outras técnicas.
 
----
 
 ## 🎓 Formação  
 
 - Engenharia de Software  
 - DevOps & Cloud Engineer  
 
----
 
 ## 🌍 Experiência  
 
@@ -44,7 +40,6 @@ Atuo no desenvolvimento de sites, aplicações web, automações e integrações
 - Implementação de **agentes de IA** e fluxos inteligentes  
 - Otimização de **bancos de dados e sistemas de nuvem**  
 
----
 
 ## 🌐 Sites pessoais & Contatos:  
 
@@ -52,6 +47,5 @@ Atuo no desenvolvimento de sites, aplicações web, automações e integrações
 - [Contato direto](https://brunoalbim.com.br/) 
 - [Canal do Youtube](https://www.youtube.com/@brunoartbr)
 
----
 
 🚀 Aproveite que esta por aqui, da uma olhada nos meus repositórios e projetos que acompanho (fork).
