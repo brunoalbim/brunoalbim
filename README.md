@@ -1,8 +1,17 @@
-# ⚡ Eu, Bruno
+# Eu, Bruno
 
 💻 Desenvolvedor Web | ☁️ Cloud & DevOps | 🤖 Automação & IA  
 
 Atuo no desenvolvimento de sites, aplicações web, automações e integrações de sistemas, sempre buscando eficiência, escalabilidade e inovação.
+
+---
+
+## ⚡ Meus projetos  
+
+- [Desenvolvimento de sites e aplicações web: BR Criativus](https://brcriativus.com.br/)
+- [Implementação de Infraestrutura, IA e Automação: WorkLeads](https://cloud.workleads.com.br/)
+- [Chat com IA para sites: resolute.chat (Beta)](https://resolute.chat/)
+- [Conteúdo para Instagram, no automático: Instatico (Em construção)](https://instatico.com/)
 
 ---
 
@@ -37,11 +46,11 @@ Atuo no desenvolvimento de sites, aplicações web, automações e integrações
 
 ---
 
-## 🌐 Sites & Contatos:  
+## 🌐 Sites pessoais & Contatos:  
 
 - [Blog pessoal](https://bruno.art.br/)
-- [Site BR Criativus](https://brcriativus.com.br/)
 - [Contato direto](https://brunoalbim.com.br/) 
+- [Canal do Youtube](https://www.youtube.com/@brunoartbr)
 
 ---
 
