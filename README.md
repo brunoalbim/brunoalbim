@@ -11,6 +11,7 @@ Atuo no desenvolvimento de sites, aplicações web, automações e integrações
 - [Implementação de Infraestrutura, IA e Automação: WorkLeads](https://cloud.workleads.com.br/)
 - [Chat com IA para sites: resolute.chat (Beta)](https://resolute.chat/)
 - [Conteúdo para Instagram, no automático: Instatico (Em construção)](https://instatico.com/)
+- [Publique seu site (Em testes)](https://rank.build/)
 
 
 ## 🚀 Habilidades Técnicas  
